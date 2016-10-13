@@ -1,2 +1,2 @@
-# curso-git2
+# curso-git 2 - teste
 Segundo curso de git
